@@ -7,7 +7,8 @@ This is worth 1/3 of your Module 2 mark, and must be submitted individually.
 
 This repository is a "template repository", so rather than forking it, you should create a new repository from it:
 
-![](https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp)
+- [ ] Click the "Use this template" button in the top-right corner of this repository's page on GitHub, and create
+  your own repository from this template.
 
 > You can learn more about template repositories in the [GitHub documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
 

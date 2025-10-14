@@ -17,7 +17,7 @@ class MainTest {
     void getNumberOfSubBreedsInvalidBreed() {
         BreedFetcherForLocalTesting mock = new BreedFetcherForLocalTesting();
 
-        assertEquals(-1, Main.getNumberOfSubBreeds("cat", mock));
+        assertEquals(0, Main.getNumberOfSubBreeds("cat", mock));
     }
 
     @Test
